@@ -1,0 +1,179 @@
+/* css index page start */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Arvo', serif;
+}
+
+h2 {
+    font-family: 'Arvo', serif;
+}
+
+h6 {
+    font-family: 'Arvo', serif;
+}
+
+nav li .btn {
+    background-color: #fabd02;
+}
+
+nav li .btn:hover {
+    transform: scale(1.1);
+    background-color: white;
+    border: 2px solid #fabd02;
+}
+
+
+footer p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 0.9em;
+}
+
+.navbar-brand {
+    font-family: 'Baumans', cursive;
+}
+
+.navbar-brand:hover {
+    transform: scale(1.1);
+}
+
+.logo-car {
+    color: #fabd02;
+    font-family: 'Arvo', serif;
+}
+
+.nav-link:hover {
+    transform: scale(1.1);
+}
+
+.home {
+    padding-top: 240px;
+    height: 45em;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("../images/kota.png");
+    width: 100%
+}
+
+.home p {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.home a {
+    background-color: #fabd02;
+    border-radius: 30px;
+    height: 45px;
+    width: 180px;
+}
+
+.home a:hover {
+    transform: scale(1.1);
+    background-color: white;
+    border: 2px solid #fabd02;
+}
+
+.product button {
+    background-color: #fabd02;
+    height: 50px;
+    width: 200px;
+}
+
+.product button:hover {
+    transform: scale(1.1);
+    background-color: white;
+    border: 2px solid #fabd02;
+}
+
+.product p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    line-height: 2;
+}
+
+.testimonials .desc {
+    font-family: 'Montserrat Alternates', sans-serif;
+    line-height: 2;
+}
+
+.testimonials .author p {
+    font-family: 'Baumans', cursive;
+    font-size: 1.2em;
+}
+
+.testimonials h3 {
+    font-family: 'Arvo', serif;
+}
+
+.contact button {
+    font-family: 'Arvo', serif;
+    font-size: 15px;
+}
+
+.contact button:hover {
+    transform: scale(1.1);
+    background-color: white;
+    border: 2px solid #fabd02;
+}
+
+/* css index page end */
+
+/* css login and sign up page start */
+
+.login {
+    height: 45em;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("../images/kota.png");
+    width: 100%
+}
+
+.login label {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+}
+
+.sbmt {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.login p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 0.8rem;
+}
+
+.login .btn:hover{
+    transform: scale(1.0.6);
+    background-color: white;
+    border: 2px solid #fabd02
+}
+
+/* css login and sign up page end */
+
+/* css pesan page start */
+
+.pesan {
+    height: 45em;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("../images/kota.png");
+    width: 100%
+}
+
+.pesan label {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+}
+
+.pesan h6 {
+    font-size: 1.2rem;
+}
+
+.pesan p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1rem;
+}
+
+.pesan .btn:hover{
+    transform: scale(1.0.4);
+    background-color: white;
+    border: 2px solid #fabd02;
+}
+
+/* css pesan page start */
