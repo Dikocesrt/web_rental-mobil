@@ -103,7 +103,7 @@
         <div class="container-lg py-4">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8">
-                    <h1 class="text-white">Persewaan Mobil <span style="color: #fabd02;">Yogyakarta</span></h1>
+                    <h1 class="text-white">Persewaan Mobil <span style="color: #fabd02;">Cikarang</span></h1>
                     <p class="text-white">Temukan Mobil Terbaikmu</p>
                     <?php
                     if(isset($_SESSION['username'])){
@@ -246,7 +246,7 @@
                                         <p class="m-0 text-warning fw-bold text-capitalize">Actor</p>
                                     </div>
                                 </div>
-                                <p class="mt-3 text-muted desc">Liburan ke Yogyakarta terasa lebih menyenangkan bersama KokoCar</p>
+                                <p class="mt-3 text-muted desc">Liburan ke Cikarang terasa lebih menyenangkan bersama KokoCar</p>
                                 <div class="rating text-warning mb-4">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -315,7 +315,7 @@
                         </div>
                         <div class="text ms-3">
                             <h3 class="fs-5">Email</h3>
-                            <p class="text-muted">dikocesrt@gmail.com</p>
+                            <p class="text-muted">yuniarwulandari563@gmail.com</p>
                         </div>
                     </div>
                     <div class="contact-item d-flex">
@@ -333,7 +333,7 @@
                         </div>
                         <div class="text ms-3">
                             <h3 class="fs-5">Lokasi</h3>
-                            <p class="text-muted">Jl. Sorosutan No.69, Umbulharjo, Yogyakarta</p>
+                            <p class="text-muted">Jl. Sorosutan No.69, Cikarang</p>
                         </div>
                     </div>
                 </div>
@@ -375,16 +375,16 @@
         <div class="container-lg">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="text-center align-content-center fw-bold text-warning">&copy; 2022 Diko Cesartista</p>
+                    <p class="text-center align-content-center fw-bold text-warning">&copy; 2023 KokoCar</p>
                 </div>
             </div>
             <div class="row">
                 <div class="social-links col-lg-12 text-center">
-                    <a class="text-warning me-2" href="https://t.co/QPZLcEIGq8" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a class="text-warning me-2" href="https://wa.me/082231703509?text=Hello%20guys!!!%20it's%20Diko%20Cesartista%20here%3A)" target="_blank"><i class="fab fa-whatsapp" target="_blank"></i></a>
-                    <a class="text-warning me-2" href="https://www.facebook.com/diko.cesartista/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                    <a class="text-warning me-2" href="https://twitter.com/dikocesrt_" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a class="text-warning me-2" href="https://t.me/dikocesrt" target="_blank"><i class="fab fa-telegram"></i></a>
+                    <a class="text-warning me-2" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a class="text-warning me-2" href="" target="_blank"><i class="fab fa-whatsapp" target="_blank"></i></a>
+                    <a class="text-warning me-2" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a class="text-warning me-2" href="" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a class="text-warning me-2" href="" target="_blank"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -392,4 +392,4 @@
     <!-- footer end -->
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
+</html> 
